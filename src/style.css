@@ -1,0 +1,32 @@
+
+.container-fluid{
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    background-color:cornflowerblue;
+  }
+
+  span {
+    display: block;
+    align-items: center;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 50px;
+    height: 600px;
+    width: auto;
+    color:blue;
+    background-color: khaki;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+  }
+
+  body{
+    background-color:blueviolet;
+  }
+
+  #api1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
